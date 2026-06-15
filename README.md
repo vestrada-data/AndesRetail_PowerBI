@@ -1,28 +1,28 @@
 
-###  Dashboard de desempeño comercial 2024–2025¶
+###  Dashboard de desempeño comercial 2024–2025
 Empresa: Andes Retail Group
 
  ## 🎯 Objetivo 
 
-Diseñar un dashboard ejecutivo que permita visualizar tendencias de asistencia, desempeño operativo y métricas clave para apoyar la toma de decisiones.
+La dirección ejecutiva necesita un dashboard interactivo que permita entender el desempeño comercial de los años 2024–2025.
 
-Comportamiento del Visitante: ¿Cuáles son los días de la semana o tipos de días (Tipo_Dia) con mayor afluencia? ¿Cómo se distribuye nuestro público (niños, adultos, maestros, INAPAM)?
-Rendimiento Financiero: ¿Cuál es la principal fuente de ingresos (Ingreso_Boletaje, Tienda, Cafeteria) y cómo se correlacionan con el volumen de visitas?
-Eficiencia Operativa: ¿Qué días o temporadas generan picos de asistencia que requieran planificar más personal o inventario?
+Preguntas del negocio:
+¿Cómo ha evolucionado el ingreso total entre 2024 y 2025?
+¿Qué segmentos de clientes aportan mayor ingreso y rentabilidad?
+¿Qué categorías de producto tienen mayor impacto en el negocio?
+¿Existen diferencias relevantes entre países o regiones?
+¿Qué patrones temporales se observan a lo largo del año?
+¿Dónde podrían existir oportunidades de mejora comercial?
 
 ## 🛠️ Herramientas Utilizadas
 Power BI
+Visualizaciones nativas (barras, líneas, mapas, tarjetas KPI)
+Modelo de narrativa SQCA
 
 ## KPIs monitoreados
-**Operativos** <b>
-Total de Visitantes: SUM(Total_Visitantes)
-Promedio Diario de Visitas: AVERAGE(Total_Visitantes)
-Mix de Audiencia (%): Proporción de Niños, Adultos, Maestros e INAPAM sobre el total.
-<b>
-**Financieros**
-Ingreso Total: SUM(Ingreso_Total)
-Ticket Promedio por Visitante: Un ratio crucial para medir el gasto de los usuarios.
-Gasto Promedio por Categoría: Desglose del ticket promedio en Boletaje, Tienda y Cafetería para entender el comportamiento de consumo.
+Ingresos Totales: porque me permite saber el tamaño del mercado capturado, es el indicador del volumen del negocio.
+Ventas: Nos ayuda a entender si el crecimiento del ingreso se debe a que estamos vendiendo mas volumen de producto.
+Rentabilidad: Este KPI mide la eficiencia de la operación retail.
 
 ## Proceso realizado
  - Conexión y Exploración de los Datos (Power Query)
@@ -36,15 +36,14 @@ Gasto Promedio por Categoría: Desglose del ticket promedio en Boletaje, Tienda 
 - Narrativa del Dashboard (Modelo SCQA)
 
 Principales insights
-Ingresos Totales: porque me permite saber el tamaño del mercado capturado, es el indicador del volumen del negocio.
-Ventas: Nos ayuda a entender si el crecimiento del ingreso se debe a que estamos vendiendo mas volumen de producto.
-Rentabilidad: Este KPI mide la eficiencia de la operación retail.
+Equipo, durante el periodo 2024-2025, Andes Retail Group consolidó una operación comercial sólida, alcanzando una facturación global de $5.53 millones y una rentabilidad del 35.07%. Sin embargo, la estabilidad macro del negocio se ve amenazada por un comportamiento cíclico recurrente. Una contracción drástica en los ingresos totales durante el trimestre de junio, julio y agosto.Al profundizar en los datos, se detectó que el segmento Estándar, el más grande del negocio, sufre un desplome del 49% en su facturación, arrastrando a la mayor parte de su cartera de clientes (66.13%) a un comportamiento de Venta Baja debido probablemente a los gastos escolares. Esta volatilidad masiva expone la vulnerabilidad de los ingresos de la empresa si depende únicamente del volumen transaccional de los segmentos Estándar y Económico. Siendo el segmento Premium el que sostiene financieramente la operación durante estos meses, es prioritario blindar a estos clientes de alto valor con experiencias exclusivas y lanzamientos anticipados de contratemporada. Además de ayudar al segmento Estándar con promociones que alivien su gasto escolar a mitad de año.
 
-<img width="751" height="429" alt="Captura100" src="https://github.com/user-attachments/assets/76d5a508-2fc2-4e02-a4ac-99f62d9405c7" />
-
+<img width="751" height="429" alt="Captura100" src="https://github.com/user-attachments/assets/76d5a508-2fc2-4e02-a4ac-99f62d9405c7" /><br>
+<img width="753" height="422" alt="Captura101" src="https://github.com/user-attachments/assets/72f328f2-d739-4e9c-a235-bd3cff5e7722" />
 
 
-(Inserta aquí capturas del dashboard)
+
+
 
 
 ## ▶ Cómo abrir el archivo Power BI
