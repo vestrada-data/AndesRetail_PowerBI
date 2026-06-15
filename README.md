@@ -6,6 +6,11 @@ Empresa: Andes Retail Group
 
 La dirección ejecutiva necesita un dashboard interactivo que permita entender el desempeño comercial de los años 2024–2025.
 
+## 🛠️ Herramientas Utilizadas
+Power BI <br>
+Visualizaciones nativas (barras, líneas, mapas, tarjetas KPI)<br>
+Modelo de narrativa SQCA<br>
+
 Preguntas del negocio:<br>
 ¿Cómo ha evolucionado el ingreso total entre 2024 y 2025?<br>
 ¿Qué segmentos de clientes aportan mayor ingreso y rentabilidad?<br>
@@ -13,11 +18,6 @@ Preguntas del negocio:<br>
 ¿Existen diferencias relevantes entre países o regiones?<br>
 ¿Qué patrones temporales se observan a lo largo del año?<br>
 ¿Dónde podrían existir oportunidades de mejora comercial?<br>
-
-## 🛠️ Herramientas Utilizadas
-Power BI
-Visualizaciones nativas (barras, líneas, mapas, tarjetas KPI)
-Modelo de narrativa SQCA
 
 ## KPIs monitoreados
 Ingresos Totales: porque me permite saber el tamaño del mercado capturado, es el indicador del volumen del negocio.
