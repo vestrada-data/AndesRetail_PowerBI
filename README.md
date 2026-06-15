@@ -43,12 +43,6 @@ Equipo, durante el periodo 2024-2025, Andes Retail Group consolidó una operaci�
 <img width="753" height="422" alt="Captura101" src="https://github.com/user-attachments/assets/72f328f2-d739-4e9c-a235-bd3cff5e7722" />
 
 
-## ▶ Cómo abrir el archivo Power BI
-
-Haz clic en el siguiente botón:
-
-[![Open In Power BI](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/vestrada-data/Project_NovaRetail/blob/main/.ipynb)
-
 Sobre mí
 
 Ingeniera en Computación con experiencia en análisis operativo, KPIs y mejora de procesos. Actualmente fortaleciendo habilidades en Data Analytics y Business Intelligence.
