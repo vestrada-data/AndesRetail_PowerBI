@@ -6,13 +6,13 @@ Empresa: Andes Retail Group
 
 La dirección ejecutiva necesita un dashboard interactivo que permita entender el desempeño comercial de los años 2024–2025.
 
-Preguntas del negocio:
-¿Cómo ha evolucionado el ingreso total entre 2024 y 2025?
-¿Qué segmentos de clientes aportan mayor ingreso y rentabilidad?
-¿Qué categorías de producto tienen mayor impacto en el negocio?
-¿Existen diferencias relevantes entre países o regiones?
-¿Qué patrones temporales se observan a lo largo del año?
-¿Dónde podrían existir oportunidades de mejora comercial?
+Preguntas del negocio:<br>
+¿Cómo ha evolucionado el ingreso total entre 2024 y 2025?<br>
+¿Qué segmentos de clientes aportan mayor ingreso y rentabilidad?<br>
+¿Qué categorías de producto tienen mayor impacto en el negocio?<br>
+¿Existen diferencias relevantes entre países o regiones?<br>
+¿Qué patrones temporales se observan a lo largo del año?<br>
+¿Dónde podrían existir oportunidades de mejora comercial?<br>
 
 ## 🛠️ Herramientas Utilizadas
 Power BI
