@@ -9,7 +9,7 @@ La dirección ejecutiva necesita un dashboard interactivo que permita entender e
 ## 🛠️ Herramientas Utilizadas
 Power BI <br>
 Visualizaciones nativas (barras, líneas, mapas, tarjetas KPI)<br>
-Modelo de narrativa SQCA<br>
+Modelo de narrativa SCQA<br>
 
 Preguntas del negocio:<br>
 ¿Cómo ha evolucionado el ingreso total entre 2024 y 2025?<br>
