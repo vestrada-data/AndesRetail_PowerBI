@@ -20,8 +20,8 @@ Preguntas del negocio:<br>
 ¿Dónde podrían existir oportunidades de mejora comercial?<br>
 
 ## KPIs monitoreados
-Ingresos Totales: porque me permite saber el tamaño del mercado capturado, es el indicador del volumen del negocio.
-Ventas: Nos ayuda a entender si el crecimiento del ingreso se debe a que estamos vendiendo mas volumen de producto.
+Ingresos Totales: porque me permite saber el tamaño del mercado capturado, es el indicador del volumen del negocio.<br>
+Ventas: Nos ayuda a entender si el crecimiento del ingreso se debe a que estamos vendiendo mas volumen de producto. .<br>
 Rentabilidad: Este KPI mide la eficiencia de la operación retail.
 
 ## Proceso realizado
