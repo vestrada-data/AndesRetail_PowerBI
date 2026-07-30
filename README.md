@@ -1,5 +1,5 @@
 
-####  DESEMPEÑO COMERCIAL  ANDES RETAIL GROUP 2024 - 2025 
+#  DESEMPEÑO COMERCIAL  ANDES RETAIL GROUP 2024 - 2025 
 Empresa: Andes Retail Group
 
  ## 🎯 Objetivo 
